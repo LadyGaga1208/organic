@@ -1,0 +1,12 @@
+export const phone = require('./phone.png');
+export const lock = require('./lock.png');
+export const logo = require('./logo.png');
+export const facebook = require('./facebook.png');
+export const back = require('./back.png')
+export const ship = require('./ship.png')
+export const minus = require('./minus.png')
+export const plus = require('./plus.png')
+export const cart = require('./cart.png')
+export const place = require('./place.png')
+export const cancel = require('./cancel.png')
+export const logoTomita = require('./logoTomita.png')
